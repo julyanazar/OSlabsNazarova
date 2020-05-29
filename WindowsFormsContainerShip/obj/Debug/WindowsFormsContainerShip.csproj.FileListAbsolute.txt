@@ -1,0 +1,5 @@
+C:\prog\progiunik\WindowsFormsContainerShip\obj\Debug\WindowsFormsContainerShip.csprojAssemblyReference.cache
+C:\prog\progiunik\WindowsFormsContainerShip\obj\Debug\WindowsFormsCars.FormContainerShip.resources
+C:\prog\progiunik\WindowsFormsContainerShip\obj\Debug\WindowsFormsContainerShip.Properties.Resources.resources
+C:\prog\progiunik\WindowsFormsContainerShip\obj\Debug\WindowsFormsContainerShip.csproj.GenerateResource.cache
+C:\prog\progiunik\WindowsFormsContainerShip\obj\Debug\WindowsFormsContainerShip.csproj.CoreCompileInputs.cache
