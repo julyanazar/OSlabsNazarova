@@ -1,3 +1,5 @@
+package lab3;
+
 public class Record {
     private int pageNumber;
     private boolean isInPhysicalMemory = false;

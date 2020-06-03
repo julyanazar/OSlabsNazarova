@@ -1,3 +1,8 @@
+package lab3;
+
+import lab3.PhysicalMemory;
+import lab3.Record;
+
 import java.util.ArrayList;
 
 public class SubstitutionAlgorythm {

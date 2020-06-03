@@ -1,3 +1,5 @@
+package lab3;
+
 public class PhysicalMemory {
     private int[] physicalPages;
     int memorySize = 4096;
