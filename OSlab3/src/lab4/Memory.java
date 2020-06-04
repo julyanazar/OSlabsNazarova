@@ -9,7 +9,7 @@ public class Memory {
     public Memory() {
         nodes = new ArrayList<Node>();
         for (int i = 0; i < count; i++) {
-            nodes.add(i, new Node(-1));
+            nodes.add(new Node(-1));
         }
     }
 }
