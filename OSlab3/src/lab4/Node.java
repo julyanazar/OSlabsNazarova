@@ -18,8 +18,8 @@ public class Node {
         return nodeId;
     }
 
-    public Node nextNode() {
-        return new Node(nextNodeId);
+    public int nextNodeId() {
+        return nextNodeId;
     }
 
     public boolean getSelectFlag() {

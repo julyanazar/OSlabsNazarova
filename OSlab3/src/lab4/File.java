@@ -11,7 +11,7 @@ public class File {
     }
 
     public Node getNode() {
-        return node.nextNode();
+        return new Node (node.nextNodeId());
     }
 
     public int getId() {
