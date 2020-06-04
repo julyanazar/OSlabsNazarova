@@ -3,15 +3,15 @@ package lab4;
 public class File {
     private int fileSize;
     private int fileId;
-    private Node node;
+    private int nodeId;
 
     public File(int fileId, int fileSize) {
         this.fileId = fileId;
         this.fileSize = fileSize;
     }
 
-    public Node getNode() {
-        return new Node (node.nextNodeId());
+    public int getNodeId() {
+        return nodeId;
     }
 
     public int getId() {

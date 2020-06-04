@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6239d192-965c-4d61-a678-d38336261c9f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/lab4/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/FileManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab4/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SewingDress" beforeDir="false" afterPath="$PROJECT_DIR$/../SewingDress" afterDir="false" />
     </list>

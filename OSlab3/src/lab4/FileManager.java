@@ -82,7 +82,7 @@ public class FileManager {
     public void removeNodes(int fileId) {
         for(int i=0; i<nodes.size(); i++) {
             if (nodes.get(i).getId() == fileId) {
-                nodes.get(i).setNode(-1);
+                nodes.get(i).setId(-1);
             }
         }
         nodes.clear();

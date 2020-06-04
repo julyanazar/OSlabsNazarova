@@ -29,4 +29,7 @@ public class Node {
     public void setSelectFlag(boolean selectFlag) {
         this.selectFlag = selectFlag;
     }
+    public void setId(int id) {
+        nodeId = id;
+    }
 }
