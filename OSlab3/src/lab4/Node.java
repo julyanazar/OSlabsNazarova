@@ -4,14 +4,14 @@ public class Node {
 
     private int nodeId;
     private boolean selectFlag;
-    private Node node;
+    private int nextNodeId;
 
     public Node(int nodeId) {
         this.nodeId = nodeId;
     }
 
-    public void setNode(int knotId) {
-        node = new Node(knotId);
+    public void setNextNodeId(int knotId) {
+        nextNodeId = knotId;
     }
 
     public int getId() {
@@ -19,7 +19,7 @@ public class Node {
     }
 
     public Node nextNode() {
-        return node;
+        return new Node(nextNodeId);
     }
 
     public boolean getSelectFlag() {
